@@ -49,6 +49,3 @@ Take a look at the immersive VR Tennis gameplay:
 
 This project was developed to experiment with the HTC Vive development environment and to test how VR technology can be leveraged for interactive gaming.
 
----
-
-This version of the `README.md` adds clarity and makes the project description more visually appealing.
